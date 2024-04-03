@@ -4,7 +4,7 @@
 --------
 **DATA**
 
-Publicaly available gene expression dataset uploaded to Gene Expression Omnibus (GEO) project number: [GSE230253]([url](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)) (GSM7210822 for Sham and GSM7210821 for bTBI)
+Publicaly available gene expression dataset uploaded to Gene Expression Omnibus (GEO) project number: GSE230253 (GSM7210822 for Sham and GSM7210821 for bTBI) (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE230253).
 
 --------
 **FOLDER STRUCTURE**
