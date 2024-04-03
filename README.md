@@ -3,8 +3,9 @@
 
 --------
 **DATA**
+Data represents gene expression matrices containing barcode and unique molecular identifier (UMI) counts generated from bTBI and control mice hippocampal samples (n = 6). To create bTBI group condition mice were subject to a 5.0 MPA blast shock wave created through rupturing an aluminum sheet with high pressure compressed gas [1]. 48 hours after injury (or not in control) the hippocampal region was isolated, treated, and purified for nuclei where single-cell RNA sequencing (scRNA-seq) could be performed with 10X Genomics Chromium platform [1]. Single cell transcripts were aligned to mouse reference genome (GRCm38 Ensembl: version 92) and provided feature-barcode matrices for each sample. Further the expression matrices are paired with a list of gene names that match the UMI for that cell to specific genes.
 
-Publicaly available gene expression dataset uploaded to Gene Expression Omnibus (GEO) project number: GSE230253 (GSM7210822 for Sham and GSM7210821 for bTBI) (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE230253).
+Publically available gene expression dataset uploaded to Gene Expression Omnibus (GEO) project number: GSE230253 (GSM7210822 for Sham and GSM7210821 for bTBI) (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE230253).
 
 --------
 **FOLDER STRUCTURE**
