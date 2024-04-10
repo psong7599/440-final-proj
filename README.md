@@ -47,11 +47,17 @@ The repository is organized into three main folders:
 Run code by cloning repository and running the hw6_20440_ps.py script after downloading the required packages (you will need to have Python installed on your system along with necessary dependencies). Navigate into code folder: "cd Code" in terminal and then run "python hw6_20440_ps.py". Alternatively after cloning repository you can navigate to code folder and open preferred text editor (Atom, Sublime, etc.) then run script in editor.
 
 Required packages:
+
+- anndata==0.10.7
   
-  - anndata==0.10.6
+- gseapy==1.1.2
   
-  - numpy==1.25.2
+- matplotlib==3.7.2
   
-  - pandas==2.2.1
+- numpy==1.25.2
   
-  - scanpy==1.10.0
+- pandas==2.2.1
+  
+- scanpy==1.10.1
+  
+- scipy==1.13.0
